@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marketing Automation - Stilmark]]></title>
+        <description><![CDATA[Marketing Automation - Stilmark]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 20:17:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn2.hubspot.net/hub/53/file-370420918-jpg/marketing-automation.jpg?t=1446232829981">]]></description>
+            <link>undefinedaaf5613a-548b-4192-99b2-2686640d3696/index.html</link>
+            <guid isPermaLink="false">aaf5613a-548b-4192-99b2-2686640d3696</guid>
+            <pubDate>Fri, 30 Oct 2015 20:17:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
