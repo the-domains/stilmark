@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Marketing Automation - Stilmark]]></title>
         <description><![CDATA[Marketing Automation - Stilmark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stilmark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 20:17:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 20:19:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stilmark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What is Marketing Automation? In a nutshell, marketing automation refers to software that automates your marketing for you. The software is designed to help you prioritize and execute your marketing tasks in a more streamlined and efficient way. But what does that mean for you as a marketer?</p>]]></description>
+            <link>https://thegrid.ai/stilmark/what-is-marketing-automation-in-a-nutshell-marketing-autom/index.html</link>
+            <guid isPermaLink="false">b1082896-573a-42ea-a652-86a1d132efa5</guid>
+            <pubDate>Fri, 30 Oct 2015 20:18:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://cdn2.hubspot.net/hub/53/file-370420918-jpg/marketing-automation.jpg?t=1446232829981">]]></description>
-            <link>undefinedaaf5613a-548b-4192-99b2-2686640d3696/index.html</link>
+            <link>https://thegrid.ai/stilmark/aaf5613a-548b-4192-99b2-2686640d3696/index.html</link>
             <guid isPermaLink="false">aaf5613a-548b-4192-99b2-2686640d3696</guid>
             <pubDate>Fri, 30 Oct 2015 20:17:22 GMT</pubDate>
         </item>
