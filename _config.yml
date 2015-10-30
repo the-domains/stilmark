@@ -1,0 +1,23 @@
+name: Stilmark
+favicon: null
+layout_spectrum: 0.5599669641815126
+typography_spectrum: 0.46411850000731647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5427463899832219
+  lightness: 0.6271009836345911
+  saturation: 0.057006527902558446
+  rhythmicContrast: 0.7454999098554254
+purpose: []
